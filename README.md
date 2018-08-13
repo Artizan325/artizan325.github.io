@@ -1,2 +1,2 @@
-# artizan.githun.io
+# artizan325.github.io
 基于hexo的个人博客
